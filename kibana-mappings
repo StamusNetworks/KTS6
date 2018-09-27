@@ -1,4 +1,5 @@
-{
+{ "mappings":
+        {
         "doc" : {
             "properties" : {
                 "config" : {
@@ -267,4 +268,5 @@
                 }
             }
         }
+    }
 }
