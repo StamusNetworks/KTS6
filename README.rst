@@ -47,7 +47,7 @@ Load the dashboards: ::
  
 You would need to select ``logstash-*`` as a default index once you open any dashboard for the first time after initial load/import.
 
-For optimal results an example of elasticsearch template has been included under `es-template\elasticsearch6-template.json` that is used in SELKS 5.
+For optimal results an example of elasticsearch template has been included under ``es-template\elasticsearch6-template.json`` that is used in SELKS 5.
 
 **NOTE:**  
 This will delete any custom dashboards you already have in place. 
