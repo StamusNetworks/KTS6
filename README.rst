@@ -25,6 +25,7 @@ The dashboards are:
  - SN-KRB5
  - SN-NFS
  - SN-OVERVIEW
+ - SN-SMB
  - SN-SMTP
  - SN-SSH
  - SN-STATS
