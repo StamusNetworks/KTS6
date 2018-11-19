@@ -4,23 +4,26 @@ Kibana 6 Templates for Suricata
 
 Templates/Dashboards for Kibana 6 to use with Suricata IDPS threat hunting and the ELK 6 stack
 
-This repository provides 17 templates for the Kibana 6.x and Elasticsearch 6.x
+This repository provides 21 templates for the Kibana 6.x and Elasticsearch 6.x
 for use with Suricata IDS/IPS/ - Intrusion Detection, Intrusion Prevention and Network Security Monitoring system
 
 These dashboards are for use with Suricata 4.1+ and enabled Rust build, Elasticsearch, Logstash, 
-Kibana 6 and comprise of more than 170 visualizations and 15 searches.
+Kibana 6 and comprise of more than 200 visualizations and 15 predefined searches.
 
 The dashboards are:
 
- - SN-SMB
- - SN-IKEv2
  - SN-ALERTS
  - SN-ALL
+ - SN-DHCP
  - SN-DNS
+ - SN-DNP3
  - SN-FILE-Transactions
  - SN-FLOW
  - SN-HTTP
  - SN-IDS
+ - SN-IKEv2
+ - SN-KRB5
+ - SN-NFS
  - SN-OVERVIEW
  - SN-SMTP
  - SN-SSH
@@ -28,7 +31,8 @@ The dashboards are:
  - SN-TLS
  - SN-VLAN
  - SN-TFTP
- - SN-DHCP
+ - SN-TrafficID
+ 
 
 
 How to use
