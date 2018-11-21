@@ -50,7 +50,9 @@ Load the dashboards: ::
  ./load.sh
 
  
-You would need to select ``logstash-*`` as a default index once you open any dashboard for the first time after initial load/import.
+You would need to select ``logstash-*`` as a default index once you open any dashboard for the first time after initial load/import.  
+
+A similar to this logstash template could be used - https://github.com/StamusNetworks/SELKS/blob/SELKS5/staging/etc/logstash/conf.d/logstash.conf
 
 For optimal results an example of elasticsearch template has been included under ``es-template\elasticsearch6-template.json`` that is used in SELKS 5.
 
